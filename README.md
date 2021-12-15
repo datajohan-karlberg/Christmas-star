@@ -1,5 +1,7 @@
 # Christmas-star
-Christmasstar with Neopixel ledstrip
+Christmasstar with Neopixel ledstrip and Arduino UNO.
+It uses the Adafruit_NeoPixel.h  library.
+
 
 ![GitHub Logo](/julstierna.gif)
 
